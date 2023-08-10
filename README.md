@@ -20,5 +20,17 @@ Terminable Middleware sangat berguna untuk tugas seperti logging, manajemen cach
 - RM = Route Middleware
 - T = Terminable
 
+```bash
+Request => Global Middleware => Route => Route Middleware => Controller
+
+Peran Middleware dalam proses ini disebut Before Processing Action
+```
+
+```bash
+Controller => Route Middleware => Global Middleware => Response
+
+Peran Middleware dalam proses ini disebut After Processing Action
+```
+
 ## Contributor
 - [Wirandra Alaya](https://github.com/dayCod)
