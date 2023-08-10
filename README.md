@@ -9,6 +9,8 @@ Terminable Middleware sangat berguna untuk tugas seperti logging, manajemen cach
 - M = Model
 - V = View
 - C = Controller
+- R = Route
+- DB = Database
 - Req = Request
 - Res = Response
 - GM = Global Middleware
