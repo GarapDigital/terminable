@@ -1,4 +1,5 @@
 # Terminable
+Terninable Middleware performs some task after the response has been sent to the browser.
 
 ## Permasalahan
 Kalo misalkan udah tau apa itu konsep daripada middleware, yaa terminable adalah bagian daripada itu. cuman mungkin kita sebagai developer ingin tahu caranya bagaimana untuk membuat perform sebuah aksi pada ujung proses siklus request setelah hasil response diterima oleh klien. ya pada saat itulah mengapa kita butuh terminable.
