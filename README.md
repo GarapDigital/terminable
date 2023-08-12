@@ -32,5 +32,14 @@ Controller => Route Middleware => Global Middleware => Response
 Peran Middleware dalam proses ini disebut After Processing Action
 ```
 
-## Contributor
+## Support us
+By Follow this Github Organization, and Share our websites or social media platform to your friends [Garap Digital](https://garapdigital.id/)
+
+## Credits
+
 - [Wirandra Alaya](https://github.com/dayCod)
+- [All Contributors](https://github.com/GarapDigital/distrackhub/contributors)
+
+## License
+
+This project is released under the [MIT](http://opensource.org/licenses/MIT) license.
